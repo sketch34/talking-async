@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux (Debian)",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/mnt/c/Dev/ABL_180_ThinkAlpha/asio/asio/include/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
