@@ -4,7 +4,7 @@
             "name": "Linux (Debian)",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/mnt/c/Dev/ABL_180_ThinkAlpha/asio/asio/include/**"
+                "/home/jarrod/Dev/asio/asio/include/**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
